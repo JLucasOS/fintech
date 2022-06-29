@@ -1,0 +1,77 @@
+body {
+  background: linear-gradient(90deg,
+      rgb(242, 227, 161) 0%,
+      rgb(215, 199, 49) 35%,
+      rgb(229, 236, 94) 100%);
+  font-family: "Roboto", sans-serif;
+}
+
+#header {
+  width: 100%;
+  background-color: transparent;
+  transition: background ease-out 0.2s;
+}
+
+#header .navbar-collapse {
+  width: auto;
+}
+
+.logo {
+  height: 6%;
+  width: 8%;
+}
+
+.card {
+  background-color: rgb(215, 199, 49);
+}
+
+.dropdown-menu {
+  background-color: rgb(215, 199, 49);
+}
+
+.saldo {
+  background-color: rgb(215, 199, 49);
+
+}
+
+.aplicacoes {
+  background-color: rgb(215, 199, 49);
+  height: 30%;
+  width: 67%;
+}
+
+.rend {
+  background-color: rgb(215, 199, 49);
+  height: 80%;
+  width: 70%;
+}
+
+.invest {
+  background-color: rgb(215, 199, 49);
+  height: 70%;
+  width: 44%;
+}
+
+.gastos {
+  background-color: rgb(215, 199, 49);
+  height: 100%;
+  width: 90%;
+}
+
+.ganhos {
+  background-color: rgb(215, 199, 49);
+  height: 100%;
+  width: 80%;
+}
+
+.ett {
+  background-color: rgb(215, 199, 49);
+  height: 80%;
+  width: 90%;
+}
+
+.anr {
+  background-color: rgb(215, 199, 49);
+  height: 100%;
+  width: 58%;
+}
